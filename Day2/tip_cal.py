@@ -5,6 +5,7 @@ def tip_calculate():
   #Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
   #HINT 1: https://www.google.com/search?q=how+to+round+number+to+2+decimal+places+python&oq=how+to+round+number+to+2+decimal
   #HINT 2: https://www.kite.com/python/answers/how-to-limit-a-float-to-two-decimal-places-in-python
+  
   initialBill = input("Welcome to the tip calculator.\nwhat was the total bill? $")
   percentage = input("What percentage tip would you like to give? 10,12 or 15? ")
   split = input("how many people to split the bill? ")
